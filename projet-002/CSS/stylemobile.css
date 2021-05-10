@@ -1,0 +1,88 @@
+/* header */
+
+header{
+    flex-direction: column;
+}
+
+header>nav{
+    width: 80%;
+}
+
+header > nav > ul{
+    flex-direction: column;
+}
+
+header > nav > ul > li{
+    padding-top: 1em;
+    padding-bottom: 1em;
+    margin-bottom: 1em;
+    border-bottom: 1px solid white;
+    text-align: center;
+}
+
+/* Section 1 */
+
+#presentation>div{
+    width: 80%; 
+}
+
+#presentation>div>h1{
+    font-size: 2em;
+}
+
+/* Section 2 dernieres offres */
+
+#offres>div{
+    flex-direction: column;
+}
+
+#offres>div>div>img{
+    width: 350px;
+    height:350px;
+}
+
+#description>div{
+    width: 100%;
+}
+
+#descbackimg{
+    order: 2;
+}
+#desctext{
+    order: 1;
+}
+
+
+/* Section 3 description*/
+
+#description{
+    flex-direction: column;
+}
+
+
+/* section 4 commentaires*/
+
+
+.comm{
+    flex-direction: column;
+    height: 100%;
+}
+
+.commpic2{
+    order: 2;
+}
+
+.commtext2{
+    order: 1;
+}
+
+.commtext,.commtext2{
+    width: 80%;
+}
+
+
+
+/* section 5 contact*/
+
+
+/* Footer */
