@@ -1,0 +1,74 @@
+body{
+    background-image: url("../img/texture\ table.jpg");
+    background-size: 100%;
+}
+
+nav{
+    background-color:rgb(34, 9, 9);
+}
+
+iframe{
+    border: solid 4px rgb(59, 14, 14);
+}
+
+h3{
+    color:rgb(59, 14, 14);
+}
+.video{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.card{
+    border-radius: 5%;
+    overflow:auto;
+    border: solid 4px rgb(73, 20, 20);
+}
+
+.titre{
+    background-color:rgba(255, 255, 255, 0.6);
+    border-radius: 25px;
+    width: 70%;
+    margin: auto;
+    border: solid 4px rgb(73, 20, 20);
+}
+
+.formquestion{
+    width: 700px;
+    border-radius: 25px;
+    border: solid 5px rgb(73, 20, 20);
+    margin: auto;
+    margin-top: 100px;
+}
+
+.inputredimension{
+    width: 300px;
+}
+
+.inputredimensionarea{
+    width: 500px;
+}
+
+.carousel{
+    height: 380px;
+    width: 630px;
+    margin: auto; 
+    margin-top: 10rem;
+    border: solid 4px rgb(73, 20, 20);
+
+}
+
+.couleurdefond{
+    background-color: rgba(222, 184, 135,0.8);
+}
+
+.card-img-right{
+    height:250px;
+    width:250px;
+}
+
+@media (max-width: 991.98px) { 
+    
+}
